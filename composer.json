@@ -1,5 +1,5 @@
 {
-    "name": "hashmode/cakephp-jquery-file-upload",
+    "name": "umer936/cakephp-jquery-file-upload",
     "description": "Cakephp 4.x Jquery File Upload",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "jquery", "file-upload" ],
@@ -11,6 +11,9 @@
 	"authors": [
         {
             "name": "hashmode"
+        },
+        {
+            "name": "umer936"
         }
     ],
     "autoload": {
