@@ -1,6 +1,6 @@
 # Cakephp-Jquery-File-Upload
 
-This is a **Cakephp 4.x** vendor/plugin for blueimp jquery file upload widget https://github.com/blueimp/jQuery-File-Upload
+This is a **Cakephp 5.x** vendor/plugin for blueimp jquery file upload widget https://github.com/blueimp/jQuery-File-Upload
 
 ## Requirements
 1. Cakephp 4.x

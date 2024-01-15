@@ -1,11 +1,11 @@
 {
     "name": "umer936/cakephp-jquery-file-upload",
-    "description": "Cakephp 4.x Jquery File Upload",
+    "description": "Cakephp 5.x Jquery File Upload",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "jquery", "file-upload" ],
     "require": {
-        "cakephp/cakephp": "^4.0",
-        "blueimp/jquery-file-upload": "^10.31.0"
+        "cakephp/cakephp": "^5.0",
+        "blueimp/jquery-file-upload": "^10.32.0"
     },
     "license": "MIT",
 	"authors": [

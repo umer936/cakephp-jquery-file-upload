@@ -12,7 +12,7 @@ use Cake\View\Helper;
 class JqueryFileUploadHelper extends Helper
 {
 
-    public $helpers = [
+    public array $helpers = [
         'Html'
     ];
 
